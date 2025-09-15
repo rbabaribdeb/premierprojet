@@ -1,3 +1,4 @@
+package module1;
 
 public class Exemple_1 {
     public static void main(String[] args) {
