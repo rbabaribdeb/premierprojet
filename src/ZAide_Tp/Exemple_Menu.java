@@ -19,9 +19,13 @@ public class Exemple_Menu {
 
         String choix = sc.nextLine();
         char choix_c = choix.charAt(0);
+
+
         switch (choix_c) {
             case 'F', 'f':
                 System.out.println("F");
+
+
                 break;
             case 'A', 'a':
                 System.out.println("A");
