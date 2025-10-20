@@ -13,12 +13,8 @@ public class Exercice_14_20 {
         //---------
         Double a,b,c;
         Double delta, x1, x2;
-
-
         //---------
-
         System.out.println("===== a.x2 + b.x + c = 0 =====");
-
         Scanner sc = new Scanner(System.in);
         System.out.print(" svp saisissez a : ");
         a = sc.nextDouble();
@@ -40,12 +36,5 @@ public class Exercice_14_20 {
             // cas delta negatif
             System.out.println("Pas de sollution dans R");
         }
-
-
-
-
-
     }
-
-
 }
