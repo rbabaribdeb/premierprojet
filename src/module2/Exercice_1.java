@@ -11,7 +11,7 @@ public class Exercice_1 {
         String lettre = clavier.nextLine();
         lettre = lettre.toLowerCase();
 
-        if (lettre.equals("a") || lettre.equals("i") || lettre.equals("o") ||
+        if (lettre.equals("a") || lettre.equals(" i ") || lettre.equals("o") ||
             lettre.equals("u") || lettre.equals("e")|| lettre.equals("y"))
         {
             System.out.println("C'est une voyelle ");

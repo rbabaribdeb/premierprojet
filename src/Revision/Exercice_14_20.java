@@ -31,7 +31,7 @@ public class Exercice_14_20 {
             x1 = (- b + Math.sqrt(delta) )/ 2*a;
             x2 = (- b - Math.sqrt(delta) )/ 2*a;
             System.out.println("delta > 0 et x1 = " + x1);
-            System.out.println("delta > 0 et x2 = " + x2);
+             System.out.println("delta > 0 et x2 = " + x2);
         }else {
             // cas delta negatif
             System.out.println("Pas de sollution dans R");
